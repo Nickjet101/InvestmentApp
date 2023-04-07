@@ -1,4 +1,18 @@
 
+# Assignment:
+# Build an Investment application that inputs an investors name, amount to invest. There’s a 50% increase in your wallet balance .
+
+# To withdraw, Input the amount you want to withdraw ; if the amount is greater than the wallet balance - Print (insufficient funds) 
+# But if the amount you want to withdraw is less than the wallet balance - Print (withdrawal successful, your account has been debited with …….. and 7% VAT  has been deducted)
+
+# Pls note: 7% VAT deduction is from your wallet balance. 
+# Your Final balance = amount withdrawn - wallet balance ; just same way your bank app works when you make a transfer….
+
+# Submission date: Saturday 8th April, 2023.
+# -Deploy to GitHub and send  your repository link to obidienttrainingclassb@gmail.com
+
+# Thanks 🙏🏼
+
 print("Welcome To COHORT_1 Investment Platform.")
 
 
